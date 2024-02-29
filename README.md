@@ -5,18 +5,23 @@ This repository provides a simple starter template for creating a website using 
 ## Installation Process
 
 1. Open your terminal.
-2. Clone the repository:
+2. You may need to install the XCode Command Line Tools:
    ```bash
-   git clone https://github.com/your-username/hugo-example-starter-github-pages.git
+   xcode-select --install
    ```
-3. Change directory to the cloned repo:
+3. Clone the repository:
+   ```bash
+   git clone https://github.com/{**your-username**}/hugo-example-starter-github-pages.git
+   ```
+4. Change directory to the cloned repo:
    ```bash
    cd hugo-example-starter-github-pages
    ```
-4. Run the setup script:
+5. Run the setup script:
    ```bash
    ./setup.sh
    ```
+It could be that after installing Homebrew, brew is not found in the $PATH variable. The script will stop, since it won't find the brew command. Add brew to the $PATH variable and restart the `./setup.sh`. Usually the post-installation process of Homebrew will tell you the exact commands, you need to use in the part called Next Steps.
 
 ## File Structure
 
