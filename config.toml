@@ -44,16 +44,7 @@ copyright = "&copy;2024 Your Name"
 
       [[params.links.list1.link]]
         text = "OtherPAge"
-        url = "/prov"
+        url = "/long.md"
         new_tab = true # new tab
-
-      [[params.links.list1.link]]
-        text = "Link 2"
-        url = "#/prov"
-        new_tab = false # Default, open at same tab
-
-      [[params.links.list1.link]]
-        text = "Link 3"
-        url = "long-text/long-text.md"
 
   
