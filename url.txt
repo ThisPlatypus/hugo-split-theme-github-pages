@@ -1,2 +1,2 @@
 http://hugo:1313/index.html
-http://hugo:1313/long.html
+http://hugo:1313/long-text.html
