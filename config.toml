@@ -43,8 +43,8 @@ copyright = "&copy;2024 Your Name"
       heading = "Header 1"
 
       [[params.links.list1.link]]
-        text = "Link 1"
-        url = "#"
+        text = "OtherPAge"
+        url = "content/long-text.md"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
