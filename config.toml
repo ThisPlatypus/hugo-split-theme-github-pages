@@ -9,10 +9,14 @@ disableHugoGeneratorInject = true
 # Local preview mode
 relativeURLs = true
 uglyURLs = true
-
+# Google Analytics ID
+  GoogleAnalytics = "G-ZCM7DTPPL3"
 # Copyright
 copyright = "&copy;2024 Your Name"
 
+[module]
+  [[module.imports]]
+    path = "github.com/escalate/hugo-split-theme"
 
 [params]
 
