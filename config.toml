@@ -44,48 +44,16 @@ copyright = "&copy;2024 Your Name"
 
       [[params.links.list1.link]]
         text = "OtherPAge"
-        url = "content/long-text.md"
+        url = "long-text.md"
         new_tab = true # new tab
 
       [[params.links.list1.link]]
         text = "Link 2"
-        url = "#"
+        url = "long-text.md"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]
         text = "Link 3"
-        url = "#"
+        url = "long-text.md"
 
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Header 2"
-
-      [[params.links.list2.link]]
-        text = "Link 1"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Link 2"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Link 3"
-        url = "#"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Header 3"
-
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+  
