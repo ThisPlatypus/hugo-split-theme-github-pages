@@ -10,7 +10,7 @@ disableHugoGeneratorInject = true
 relativeURLs = true
 uglyURLs = true
 # Google Analytics ID
-  GoogleAnalytics = "G-ZCM7DTPPL3"
+  GoogleAnalytics = "UA-XXXXXXXX-X"
 # Copyright
 copyright = "&copy;2024 Your Name"
 
