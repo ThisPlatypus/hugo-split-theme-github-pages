@@ -44,7 +44,7 @@ copyright = "&copy;2024 Your Name"
 
       [[params.links.list1.link]]
         text = "OtherPageS"
-        url = "content/long-text.md"
+        url = "long-text.md"
         new_tab = true # new tab
 
   
