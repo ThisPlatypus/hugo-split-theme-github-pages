@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://thisplatypus.github.io"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 disableKinds = ["section", "taxonomy", "term", "rss", "sitemap"]
